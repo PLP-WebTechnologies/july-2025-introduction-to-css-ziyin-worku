@@ -4,6 +4,12 @@ body {
   margin: 0;
   padding: 20px;
 }
+h1{
+  text-align: center;
+  color: #4a4a4a;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
 p {
   font-size: 18px;
   color: #333;
@@ -34,7 +40,7 @@ p {
 .box {
   width: 200px;
   height: 200px;
-  background-color: #17ff1fff;
+  background-color: #000801ff;
   color: white;
   display: flex;
   justify-content: center;
